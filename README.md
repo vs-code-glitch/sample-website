@@ -1,2 +1,2 @@
 # sample-website
-<img src="/sample-website.png" width="200px" height="100px">
+<img src="/sample-website.png" width="100%" height="100%">
